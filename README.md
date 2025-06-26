@@ -1,0 +1,2 @@
+# promosi
+untuk generate iklan
